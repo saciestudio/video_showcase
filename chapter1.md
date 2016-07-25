@@ -1,6 +1,6 @@
 ---
 title       : Datacamp Videos
-description : This page contains video which are not related to courses
+description : This page contains videos which are not related to any course
 attachments :
   slides_link : 
 
