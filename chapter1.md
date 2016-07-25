@@ -4,9 +4,33 @@ description : Insert the chapter description here
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
---- type:VideoExercise lang:r xp:50 skills:1 key:2b1a5cc1c2
-Testing, 123
+--- type:VideoExercise lang:r aspect_ratio:62.5 xp:50 skills:1
+## Video Exercise Title
 
-*** =video_link //player.vimeo.com/video/168959885
+*** =video_link
+//player.vimeo.com/video/108225030
 
-*** =video_hls //videos.datacamp.com/transcoded/1008_r-functions/v2/hls-course_intro.master.m3u8
+--- type:VideoExercise lang:r aspect_ratio:62.5 xp:50 skills:1
+## Video Exercise Title
+
+*** =video_link
+//player.vimeo.com/video/108225030
+
+--- type:VideoExercise lang:r aspect_ratio:62.5 xp:50 skills:1
+## Video Exercise Title
+
+*** =video_link
+//player.vimeo.com/video/108225030
+
+--- type:VideoExercise lang:r aspect_ratio:62.5 xp:50 skills:1
+## Video Exercise Title
+
+*** =video_link
+//player.vimeo.com/video/108225030
+
+--- type:VideoExercise lang:r aspect_ratio:62.5 xp:50 skills:1
+## Video Exercise Title
+
+*** =video_link
+//player.vimeo.com/video/108225030
+
