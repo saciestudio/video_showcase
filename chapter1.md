@@ -10,11 +10,17 @@ attachments :
 *** =video_link
 //player.vimeo.com/video/108225030
 
+*** =video_hls
+//videos.datacamp.com/transcoded/998_importing-data-in-python/v1/hls-ch3_1.master.m3u8
+
 --- type:VideoExercise lang:r aspect_ratio:62.5 xp:50 skills:1 key:d5bfda9877
 ## Video 2
 
 *** =video_link
 //player.vimeo.com/video/108225030
+
+*** =video_hls
+//videos.datacamp.com/transcoded/998_importing-data-in-python/v1/hls-ch3_1.master.m3u8
 
 --- type:VideoExercise lang:r aspect_ratio:62.5 xp:50 skills:1 key:391f27c881
 ## Video 3
@@ -22,15 +28,24 @@ attachments :
 *** =video_link
 //player.vimeo.com/video/108225030
 
+*** =video_hls
+//videos.datacamp.com/transcoded/998_importing-data-in-python/v1/hls-ch3_1.master.m3u8
+
 --- type:VideoExercise lang:r aspect_ratio:62.5 xp:50 skills:1 key:3d1432cfed
 ## Video 4
 
 *** =video_link
 //player.vimeo.com/video/108225030
 
+*** =video_hls
+//videos.datacamp.com/transcoded/998_importing-data-in-python/v1/hls-ch3_1.master.m3u8
+
 --- type:VideoExercise lang:r aspect_ratio:62.5 xp:50 skills:1 key:be720c5cc5
 ## Video 5
 
 *** =video_link
 //player.vimeo.com/video/108225030
+
+*** =video_hls
+//videos.datacamp.com/transcoded/998_importing-data-in-python/v1/hls-ch3_1.master.m3u8
 
