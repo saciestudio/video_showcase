@@ -1,8 +1,8 @@
 ---
-title       : Insert the chapter title here
-description : Insert the chapter description here
+title       : Datacamp Videos
+description : This page contains video which are not related to courses
 attachments :
-  slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
+  slides_link : 
 
 --- type:VideoExercise lang:r aspect_ratio:62.5 xp:50 skills:1 key:90005f0008
 ## Bi-Monthly Update July 19th, 2016
