@@ -11,5 +11,5 @@ attachments :
 //player.vimeo.com/video/108225030
 
 *** =video_hls
-//videos.datacamp.com/transcoded/998_importing-data-in-python/v1/hls-ch3_1.master.m3u8
+//videos.datacamp.com/transcoded/000_non-course_videos/v1/hls-Bi-Monthly_update_July_2016.master.m3u8
 
