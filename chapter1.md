@@ -5,11 +5,23 @@ attachments :
   slides_link : 
 
 --- type:VideoExercise lang:r aspect_ratio:62.5 xp:50 skills:1 key:90005f0008
-## Bi-Monthly Update July 19th, 2016
-
-*** =video_link
-//player.vimeo.com/video/108225030
+## General Presentation - Retreat September 2016
 
 *** =video_hls
-//videos.datacamp.com/transcoded/000_non-course_videos/v1/hls-Bi-Monthly_update_July_2016.master.m3u8
+//videos.datacamp.com/transcoded/000_non-course_videos/retreat_2016_september/hls-General_Presentation.master.m3u8
+
+--- type:VideoExercise lang:r xp: skills: key:d6e19cfc68
+## Hiring Presentation - Retreat September 2016
+
+*** =video_hls
+//videos.datacamp.com/transcoded/000_non-course_videos/retreat_2016_september/hls-Hiring_Presentation.master.m3u8
+
+
+--- type:VideoExercise lang:r xp: skills: key:8deb6de3a4
+## Data Science Presentation - Retreat September 2016
+
+*** =video_hls
+//videos.datacamp.com/transcoded/000_non-course_videos/retreat_2016_september/hls-Data_Science_Presentation.master.m3u8
+
+
 
