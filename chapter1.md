@@ -31,3 +31,9 @@ attachments :
 
 *** =video_hls
 //videos.datacamp.com/transcoded/000_non-course_videos/retreat_2016_september/hls-Martijn_Presentation.master.m3u8
+
+--- type:VideoExercise lang:r xp: skills: key:42b394f2ef
+## Marketing Presentation - Retreat September 2016
+
+*** =video_hls
+//videos.datacamp.com/transcoded/000_non-course_videos/retreat_2016_september/hls-Marketing_Presentation.master.m3u8
