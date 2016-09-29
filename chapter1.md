@@ -1,5 +1,5 @@
 ---
-title       : Datacamp Retreat 2016_September
+title       : DataCamp Retreat 2016_September
 description : This page contains videos which are not related to any course
 attachments :
   slides_link : 
