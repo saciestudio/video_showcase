@@ -1,5 +1,5 @@
 ---
-title       : Datacamp Videos
+title       : Datacamp Retreat 2016_September
 description : This page contains videos which are not related to any course
 attachments :
   slides_link : 
@@ -25,3 +25,9 @@ attachments :
 
 
 
+
+--- type:VideoExercise lang:r xp: skills: key:15e037656b
+## Datacamp Groups Presentation - Retreat September 2016
+
+*** =video_hls
+//videos.datacamp.com/transcoded/000_non-course_videos/retreat_2016_september/hls-Martijn_Presentation.master.m3u8
