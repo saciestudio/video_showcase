@@ -21,7 +21,7 @@ attachments :
 ## Data Science Presentation - Retreat September 2016
 
 *** =video_hls
-//videos.datacamp.com/transcoded/000_non-course_videos/retreat_2016_september/hls-Data_Science_Presentation.master.m3u8
+//videos.datacamp.com/transcoded/000_non-course_videos/retreat_2016_september/hls-Data_Science_Presentation_1.master.m3u8
 
 
 
