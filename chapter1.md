@@ -37,3 +37,33 @@ attachments :
 
 *** =video_hls
 //videos.datacamp.com/transcoded/000_non-course_videos/retreat_2016_september/hls-Marketing_Presentation.master.m3u8
+
+--- type:VideoExercise lang:r xp: skills: key:fe20297d1d
+## Architecture Presentation - Retreat September 2016
+
+*** =video_hls
+//videos.datacamp.com/transcoded/000_non-course_videos/retreat_2016_september/hls-Architecture_Presentation.master.m3u8
+
+--- type:VideoExercise lang:r xp: skills: key:8388c01df9
+## Messenger Presentation - Retreat September 2016
+
+*** =video_hls
+//videos.datacamp.com/transcoded/000_non-course_videos/retreat_2016_september/hls-Messenger_Presentation.master.m3u8
+
+--- type:VideoExercise lang:r xp: skills: key:32cfa2287b
+## Teach Engineering Presentation - Retreat September 2016
+
+*** =video_hls
+//videos.datacamp.com/transcoded/000_non-course_videos/retreat_2016_september/hls-Teach_Presentation.master.m3u8
+
+--- type:VideoExercise lang:r xp: skills: key:d7fc7c19f1
+## Learn Engineering Presentation - Retreat September 2016
+
+*** =video_hls
+//videos.datacamp.com/transcoded/000_non-course_videos/retreat_2016_september/hls-Learn_Presentation.master.m3u8
+
+--- type:VideoExercise lang:r xp: skills: key:11bcc589d7
+## Course Development Presentation - Retreat September 2016
+
+*** =video_hls
+//videos.datacamp.com/transcoded/000_non-course_videos/retreat_2016_september/hls-CD_Presentation.master.m3u8
